@@ -1,1 +1,1 @@
-# 472_Image_Classification
+# 472_Decision_Tree
